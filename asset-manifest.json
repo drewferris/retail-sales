@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/drewferris/retail-sales/static/css/main.e0081b70.chunk.css",
+    "main.js": "/drewferris/retail-sales/static/js/main.90b9bda3.chunk.js",
+    "main.js.map": "/drewferris/retail-sales/static/js/main.90b9bda3.chunk.js.map",
+    "runtime-main.js": "/drewferris/retail-sales/static/js/runtime-main.e74a761e.js",
+    "runtime-main.js.map": "/drewferris/retail-sales/static/js/runtime-main.e74a761e.js.map",
+    "static/js/2.c344f2c5.chunk.js": "/drewferris/retail-sales/static/js/2.c344f2c5.chunk.js",
+    "static/js/2.c344f2c5.chunk.js.map": "/drewferris/retail-sales/static/js/2.c344f2c5.chunk.js.map",
+    "index.html": "/drewferris/retail-sales/index.html",
+    "precache-manifest.75aa709a1ad9b4092d92759bf9aeabe5.js": "/drewferris/retail-sales/precache-manifest.75aa709a1ad9b4092d92759bf9aeabe5.js",
+    "service-worker.js": "/drewferris/retail-sales/service-worker.js",
+    "static/css/main.e0081b70.chunk.css.map": "/drewferris/retail-sales/static/css/main.e0081b70.chunk.css.map",
+    "static/js/2.c344f2c5.chunk.js.LICENSE.txt": "/drewferris/retail-sales/static/js/2.c344f2c5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e74a761e.js",
+    "static/js/2.c344f2c5.chunk.js",
+    "static/css/main.e0081b70.chunk.css",
+    "static/js/main.90b9bda3.chunk.js"
+  ]
+}
